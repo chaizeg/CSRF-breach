@@ -27,5 +27,4 @@ vagrant ssh
 ## Good to know
 
 
-`
 -The report is in French, it describes measures which could limit this type of breach, it also gives a detailed analysis of the breach etc. It also gives a detailed walk-through of what you should do in order to reproduce the breach. 
